@@ -1,0 +1,44 @@
+{
+  "uuid": "083c863d-f700-413b-af8d-63d229eab807-tc-0-1000",
+  "name": "AppiumRozetka.Tests.BaseTest.SearchTest",
+  "children": [
+    "6d9265d3-8f35-4683-a8b7-9fa09a9d511c-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "SetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1655924166200,
+      "stop": 1655924166200
+    }
+  ],
+  "afters": [
+    {
+      "name": "CleanUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1655924166200,
+      "stop": 1655924166200
+    }
+  ],
+  "links": [],
+  "start": 1655924110328,
+  "stop": 1655924166236
+}

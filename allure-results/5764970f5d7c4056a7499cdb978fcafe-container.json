@@ -1,0 +1,44 @@
+{
+  "uuid": "f8533875-088d-4d40-b49c-89fa9d42004b-tc-0-1000",
+  "name": "AppiumRozetka.Tests.BaseTest.AddToCartTest",
+  "children": [
+    "3923db8a-6753-42f3-aeb0-aff2fb1055dd-tr-0-1002"
+  ],
+  "befores": [
+    {
+      "name": "SetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1655924234175,
+      "stop": 1655924234175
+    }
+  ],
+  "afters": [
+    {
+      "name": "CleanUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1655924234176,
+      "stop": 1655924234176
+    }
+  ],
+  "links": [],
+  "start": 1655924170638,
+  "stop": 1655924234210
+}

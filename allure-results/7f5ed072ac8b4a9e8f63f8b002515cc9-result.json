@@ -1,0 +1,173 @@
+{
+  "uuid": "6d9265d3-8f35-4683-a8b7-9fa09a9d511c-tr-0-1001",
+  "historyId": "AppiumRozetka.Tests.BaseTest.SearchTest",
+  "fullName": "AppiumRozetka.Tests.BaseTest.SearchTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-40HO2UV"
+    },
+    {
+      "name": "package",
+      "value": "AppiumRozetka.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "SearchTest"
+    },
+    {
+      "name": "testClass",
+      "value": "BaseTest"
+    },
+    {
+      "name": "owner",
+      "value": "Roman"
+    },
+    {
+      "name": "subSuite",
+      "value": "Search test"
+    },
+    {
+      "name": "suite",
+      "value": "Rozetka app tests"
+    }
+  ],
+  "links": [],
+  "name": "SearchTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "SearchTest"
+  },
+  "stage": "finished",
+  "description": "Searching product\n",
+  "steps": [
+    {
+      "name": "SearchTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Clicked on close popup",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655924130431,
+          "stop": 1655924135498
+        },
+        {
+          "name": "Clicked on the search line input",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655924135498,
+          "stop": 1655924144186
+        },
+        {
+          "name": "Clicked on the search input",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655924144187,
+          "stop": 1655924149079
+        },
+        {
+          "name": "Writed the query",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": "ноутбуки"
+            }
+          ],
+          "start": 1655924149081,
+          "stop": 1655924153280
+        },
+        {
+          "name": "Clicked on the search helper tab",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655924153281,
+          "stop": 1655924158418
+        },
+        {
+          "name": "Get text of search product",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655924158419,
+          "stop": 1655924163118
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "aa8bbf81937a451aa2104b62509b3345-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1655924110330,
+      "stop": 1655924166203
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1655924110330,
+  "stop": 1655924166208
+}

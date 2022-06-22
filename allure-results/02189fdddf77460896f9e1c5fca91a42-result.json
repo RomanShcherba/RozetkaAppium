@@ -1,0 +1,183 @@
+{
+  "uuid": "3923db8a-6753-42f3-aeb0-aff2fb1055dd-tr-0-1002",
+  "historyId": "AppiumRozetka.Tests.BaseTest.AddToCartTest",
+  "fullName": "AppiumRozetka.Tests.BaseTest.AddToCartTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-40HO2UV"
+    },
+    {
+      "name": "package",
+      "value": "AppiumRozetka.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "AddToCartTest"
+    },
+    {
+      "name": "testClass",
+      "value": "BaseTest"
+    },
+    {
+      "name": "owner",
+      "value": "Roman"
+    },
+    {
+      "name": "subSuite",
+      "value": "Add to cart test"
+    },
+    {
+      "name": "suite",
+      "value": "Rozetka app tests"
+    }
+  ],
+  "links": [],
+  "name": "AddToCartTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "AddToCartTest"
+  },
+  "stage": "finished",
+  "description": "Adding an item to wishlist test\n",
+  "steps": [
+    {
+      "name": "AddToCartTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Clicked on close popup",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655924189576,
+          "stop": 1655924194698
+        },
+        {
+          "name": "Clicked on catalog Button",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655924194698,
+          "stop": 1655924198949
+        },
+        {
+          "name": "Clicked on the category tab",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655924198949,
+          "stop": 1655924204019
+        },
+        {
+          "name": "Clicked on the product tab",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655924204019,
+          "stop": 1655924208301
+        },
+        {
+          "name": "Open sorting and clicked on popular radiobutton",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655924208301,
+          "stop": 1655924216933
+        },
+        {
+          "name": "Click on add to cart button",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655924216933,
+          "stop": 1655924222701
+        },
+        {
+          "name": "Clicked on cart button",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1655924222701,
+          "stop": 1655924226932
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "401fd9ff237246978fb84b40d87bfeb5-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1655924170641,
+      "stop": 1655924234178
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1655924170640,
+  "stop": 1655924234183
+}
